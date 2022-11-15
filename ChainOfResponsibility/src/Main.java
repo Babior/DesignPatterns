@@ -3,7 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         //Team Leader, Project Leader, HR, and Manager
-
         TeamLeader teamLeader = new TeamLeader();
         ProjectLeader projectLeader = new ProjectLeader();
         HR hr = new HR();

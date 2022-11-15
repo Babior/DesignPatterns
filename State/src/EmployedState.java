@@ -1,4 +1,4 @@
-public class EmployedState implements CandidateState{
+public class EmployedState implements CandidateState {
     @Override
     public void next(Person person) {
     }

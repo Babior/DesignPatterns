@@ -15,3 +15,4 @@ public class InterviewedState implements CandidateState {
         System.out.println("Person is being interviewed for a position.");
     }
 }
+
