@@ -9,7 +9,7 @@ This is a collection of Design Patterns I've implemented in my academic life usi
 - [State](https://pages.github.com)
 
 ### Creational
-- [Builder] ()
-- [Object Pool Pattern] ()
+- [Builder] (https://github.com/Babior/DesignPatterns/tree/main/Builder/src)
+- [Object Pool Pattern] (https://github.com/Babior/DesignPatterns/tree/main/ObjectPool/src)
 
 ### Structural
